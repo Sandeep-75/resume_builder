@@ -42,7 +42,7 @@ class App extends React.Component {
 
                 <Grid item xs={9}>
                   <Typography variant="h3">Sandeep</Typography>
-                  <Typography variant="h5">Frontend Developer</Typography>
+                  <Typography variant="h5">Senior Frontend Developer</Typography>
                   <Typography paragraph>
                     I enjoy learning a lot and want to work with a company where
                     I can apply new things, ideas, have the flexibility to play

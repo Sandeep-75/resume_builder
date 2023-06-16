@@ -6,6 +6,9 @@ import Content from '../content.json';
 const Certificates = () => (
     <CardContent style={{ padding: '25px' }}>
         <Grid item xs={12}>
+            {new Array(12).fill("").map((_, i) => (
+                <br key={i} />
+            ))}
             <Box className='iconContainer' width={'100%'} mb={2}>
                 <CardMembershipIcon />
                 <Typography color='white' fontWeight={'bold'} mb={0} variant={"h5"}>

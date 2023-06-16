@@ -29,6 +29,24 @@
   },
   "projects": [
     {
+      "name": "Blox.xyz V.3.0",
+      "achievements": [
+        "Blox is a revolutionary home-buying platform by Method and Madness Technology Pvt Ltd",
+        "Tech Stack         :Javascript, React, Next Js, Material UI, Redux SaGa, AWS Route53, AWS Amplify, PHP, React Native",
+        "Supported Platform : Web and Mobile",
+        "My Contribution    : Built from scratch with custome library except AWS Deployment"
+      ]
+    },
+    {
+      "name": "Blox.xyz V.2.0",
+      "achievements": [
+        "Blox is a revolutionary home-buying platform by Method and Madness Technology Pvt Ltd",
+        "Tech Stack         :Javascript, React, Next Js, Material UI, Redux SaGa, AWS Route53, AWS Amplify, PHP, React Native",
+        "Supported Platform : Web and Mobile",
+        "My Contribution    : Built from scratch except AWS Deployment"
+      ]
+    },
+    {
       "name": "TM Profile Tree",
       "achievements": [
         "TM Profile Tree provides Digital Business Cards for Entrepreneurs and Marketers to help them stay connected online",
@@ -112,6 +130,24 @@
     }
   ],
   "wordExperience": [
+    {
+      "position": "Senior React Developer",
+      "company": "Method and madness techlonogy pvt. ltd.",
+      "date": {
+        "joining": "Oct 2022",
+        "leaving": "Present"
+      },
+      
+      "companyDescription": "Blox is a revolutionary home-buying platform by Method and Madness Technology Pvt Ltd.",
+      "responsibilities": [
+        "As a senior member of the team, provide technical leadership and guidance to junior developers, assisting them with problem-solving, code reviews, and best practices. ",
+        "Responsible for designing and developing complex web applications using React.js and other related technologies. This includes implementing user interfaces, creating reusable components, integrating with APIs and back-end services, and ensuring code quality and performance optimization.",
+        "Collaborate with stakeholders, project managers, and other team members to define project requirements, estimate effort, and plan the development process",
+        "As a senior developer champion code quality, adherence to coding standards, and best practices. This includes conducting code reviews, implementing automated testing strategies, and promoting efficient and maintainable code structures.",
+        "Equip implementations for tracking applications such as Google Analytics, Google Tag Manager, hotjar and others.",
+        "Effective communication and collaboration with cross-functional teams, including designers, product managers, and backend developers, are essential."
+      ]
+    },
     {
       "position": "Frontend Developer",
       "company": "Martcues Co.",

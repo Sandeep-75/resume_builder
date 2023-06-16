@@ -22,9 +22,9 @@ const WorkExperience = () => (
         i
       ) => (
         <Fragment key={i}>
-          {i != 0 && i % 2 === 0 && (
+          {i === 1 && (
             <Fragment>
-              {new Array(14).fill("").map((_, i) => (
+              {new Array(12).fill("").map((_, i) => (
                 <br key={i} />
               ))}
             </Fragment>

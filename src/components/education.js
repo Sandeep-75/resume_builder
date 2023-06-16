@@ -5,7 +5,9 @@ import Content from '../content.json';
 
 const Education = () => (
     <Grid item xs={12} sx={{ mb: 5 }}>
-
+        {new Array(12).fill("").map((_, i) => (
+            <br key={i} />
+        ))}
         <Box className='iconContainer' mb={2}>
             <SchoolIcon className="filledIcon" />
             <Typography variant={'h5'} fontWeight='bold'>
